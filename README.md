@@ -47,6 +47,7 @@ Atualmente buscando oportunidades para aplicar e expandir minhas habilidades em 
 - **Medium:** Preparação para publicar meu primeiro artigo sobre dados.
 - **GitHub:** Em breve, compartilharei projetos pessoais focados em ciência de dados.
 
-## Contato
+
+
 
 **Fique à vontade para explorar meu perfil e entrar em contato comigo através do **e-mail databreno@outlook.com.** Estou entusiasmado para aprender mais e colaborar em projetos futuros na área de ciência de dados!*
